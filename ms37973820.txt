@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "administrative-unit.github.io",
+  "Id": "cd2e2cf4-c215-4716-a6ae-18759ccf1bed"
+}
